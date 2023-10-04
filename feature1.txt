@@ -4,3 +4,5 @@ another one ....
 
 commit f1
 commit f2
+
+Implementing feature2
