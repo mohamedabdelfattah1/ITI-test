@@ -12,3 +12,4 @@ Test
 
 working on newBranch
 another commit in newBranch
+last commit in newBranch
