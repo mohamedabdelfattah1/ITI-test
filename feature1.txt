@@ -7,3 +7,5 @@ commit f2
 
 Implementing feature2
 more code in feature2
+
+Test
