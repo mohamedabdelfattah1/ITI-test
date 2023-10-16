@@ -8,7 +8,7 @@ commit f2
 Implementing feature2
 more code in feature2
 
-Test
+Delete line and create new one
 
 working on newBranch
 another commit in newBranch
